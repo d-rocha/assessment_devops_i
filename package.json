@@ -7,7 +7,7 @@
   "author": "Davi Rocha",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon /src.appjs"
+    "start": "nodemon src/app.js"
   },
   "dependencies": {
     "express": "^4.17.1",
