@@ -1,0 +1,19 @@
+{
+  "name": "assessment_devops_i",
+  "version": "1.0.0",
+  "description": "Assessment by Infnet",
+  "main": "app.js",
+  "repository": "https://github.com/d-rocha/assessment_devops_i.git",
+  "author": "Davi Rocha",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon /src.appjs"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.7.14"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
